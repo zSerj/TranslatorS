@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="TranslateService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/TranslatorService" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ITranslateService_AddWord_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddWord" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_AddWord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddWordResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_UpdateWord_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateWord" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_UpdateWord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateWordResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_RemoveWord_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveWord" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_RemoveWord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveWordResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_GetTranslation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTranslation" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_GetTranslation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTranslationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_WakeUp_InputMessage">
+    <wsdl:part name="parameters" element="tns:WakeUp" />
+  </wsdl:message>
+  <wsdl:message name="ITranslateService_WakeUp_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WakeUpResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ITranslateService">
+    <wsdl:operation name="AddWord">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITranslateService/AddWord" message="tns:ITranslateService_AddWord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITranslateService/AddWordResponse" message="tns:ITranslateService_AddWord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateWord">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITranslateService/UpdateWord" message="tns:ITranslateService_UpdateWord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITranslateService/UpdateWordResponse" message="tns:ITranslateService_UpdateWord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveWord">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITranslateService/RemoveWord" message="tns:ITranslateService_RemoveWord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITranslateService/RemoveWordResponse" message="tns:ITranslateService_RemoveWord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTranslation">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITranslateService/GetTranslation" message="tns:ITranslateService_GetTranslation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITranslateService/GetTranslationResponse" message="tns:ITranslateService_GetTranslation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WakeUp">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITranslateService/WakeUp" message="tns:ITranslateService_WakeUp_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITranslateService/WakeUpResponse" message="tns:ITranslateService_WakeUp_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ITranslateService" type="tns:ITranslateService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddWord">
+      <soap:operation soapAction="http://tempuri.org/ITranslateService/AddWord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateWord">
+      <soap:operation soapAction="http://tempuri.org/ITranslateService/UpdateWord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveWord">
+      <soap:operation soapAction="http://tempuri.org/ITranslateService/RemoveWord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTranslation">
+      <soap:operation soapAction="http://tempuri.org/ITranslateService/GetTranslation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WakeUp">
+      <soap:operation soapAction="http://tempuri.org/ITranslateService/WakeUp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="TranslateService">
+    <wsdl:port name="BasicHttpBinding_ITranslateService" binding="tns:BasicHttpBinding_ITranslateService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/TranslatorService/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,8 @@
+2015-07-01 00:33:23,748 [7] ERROR TranslatorService.TranslateService [(null)] - System.InvalidOperationException: Последовательность не содержит элементов
+   в System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   в System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__0[TResult](IEnumerable`1 sequence)
+   в System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   в System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   в System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   в System.Linq.Queryable.First[TSource](IQueryable`1 source)
+   в TranslatorService.TranslateService.RemoveWord(Word wrd) в c:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\TranslateService.cs:строка 160

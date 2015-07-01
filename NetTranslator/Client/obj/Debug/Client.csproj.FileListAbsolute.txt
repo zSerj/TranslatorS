@@ -1,0 +1,340 @@
+e:\мои документы\visual studio 2012\Projects\Client\Client\bin\Debug\Client.exe
+e:\мои документы\visual studio 2012\Projects\Client\Client\bin\Debug\Client.pdb
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\MainWindow.baml
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\MainWindow.g.cs
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\App.g.cs
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client_MarkupCompile.cache
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client.g.resources
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client.Properties.Resources.resources
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client.exe
+e:\мои документы\visual studio 2012\Projects\Client\Client\obj\Debug\Client.pdb
+e:\мои документы\visual studio 2012\Projects\Client\Client\bin\Debug\Client.exe.config
+E:\Мои документы\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client 24_06\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\Client 24_06\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 24_06\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\MainWindow.baml
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\Client 24_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientView.g.cs
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientView.baml
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientView.g.cs
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientView.baml
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientViewEdit.g.cs
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\Client\obj\Debug\View\ClientViewEdit.baml
+C:\Users\Сережа\Desktop\Client 28_06\Client 26_06\Client 25_06\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\Client 28_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\Client 28_06\Client 26_06\Client 25_06\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\View\ClientViewEdit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\View\ClientView.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\View\ClientViewEdit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\View\ClientView.baml
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit2\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit2\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit2\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit6\DotNetTranslator_edit6\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit6\DotNetTranslator_edit6\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit6\DotNetTranslator_edit6\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit7\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit8\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit10\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit11\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Сережа\Desktop\DotNetTranslator_edit12\NetTranslator\Client\obj\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\bin\Debug\Client.exe.config
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\bin\Debug\Client.exe
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\bin\Debug\Client.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\View\Edit.g.cs
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\View\Translate.g.cs
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\App.g.cs
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\View\Edit.baml
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\View\Translate.baml
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client.g.resources
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client.exe
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\Client\obj\Debug\Client.pdb

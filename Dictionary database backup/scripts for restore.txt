@@ -1,0 +1,8 @@
+To restore this database just execute the following script in sql server:
+
+USE master
+GO
+RESTORE DATABASE DictionaryDb FROM disk = 'D:\DB.bak'
+WITH REPLACE, RECOVERY
+, stats = 5
+GO

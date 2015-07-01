@@ -1,0 +1,4 @@
+2015-06-25 18:44:24,735 [8] ERROR TranslatorService.Service [(null)] - System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TranslatorService.Service.AddWord(Word wrd) в c:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\Service.cs:строка 32
+2015-06-25 18:55:41,811 [8] ERROR TranslatorService.Service [(null)] - System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TranslatorService.Service.AddWord(Word wrd) в c:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\Service.cs:строка 32

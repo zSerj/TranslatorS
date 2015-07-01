@@ -1,0 +1,165 @@
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\TranslatorService.dll.config
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\TranslatorService.dll
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\TranslatorService.pdb
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\EntityFramework.dll
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\EntityFramework.xml
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\obj\Debug\TranslatorService.dll
+e:\мои документы\visual studio 2012\Projects\Client\TranslatorService\obj\Debug\TranslatorService.pdb
+E:\Мои документы\Visual Studio 2012\Projects\Client\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\Client\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\Client\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 24_06\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мамуас\Desktop\Client 25_06_2\Client 25_06\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_3\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\Client 25_06_4\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 26_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\Client 27_06\Client 26_06\Client 25_06\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit1\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit3\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit4\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit5\DotNetTranslator_edit5\DotNetTranslator_edit3\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Сережа\Desktop\DotNetTranslator_edit7\DotNetTranslator_edit7\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll.config
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\EntityFramework.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\EntityFramework.xml
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\obj\Debug\TranslatorService.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\obj\Debug\TranslatorService.pdb
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\bin\Debug\log4net.dll
+C:\Users\Мамуас\Desktop\DotNetTranslator_edit13\NetTranslator\TranslatorService\obj\Debug\TranslatorService.csprojResolveAssemblyReference.cache
